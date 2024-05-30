@@ -4,7 +4,7 @@ import './App.css'
 function App() {
 
   return (
-    <div>hello Duy</div>
+    <div style={{color:'red'}}>hello Duy</div>
   )
 }
 
